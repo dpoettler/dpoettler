@@ -14,5 +14,3 @@ Electronics student at HTBLuVA Salzburg<br>17 yrs old<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dpoettler&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
