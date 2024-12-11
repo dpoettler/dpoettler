@@ -13,4 +13,4 @@ Electronics student at HTBLuVA Salzburg<br>17 yrs old<br>
 ![](https://github-readme-stats-coral-one-94.vercel.app/api/top-langs/?username=dpoettler&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dpoettler&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dpoettler&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
